@@ -40,14 +40,14 @@ Contribuições Pessoais
 Participei do desenho e implementação do layout das páginas principais, contribuindo diretamente na criação das telas de Vereadores Gerais e Perfil Individual, aplicando HTML, CSS e princípios básicos de usabilidade definidos no protótipo do Figma.
 No back-end, colaborei na integração das rotas com o front-end, garantindo que as informações exibidas fossem atualizadas de forma consistente. Além disso, participei das discussões estruturais do projeto e apoiei na organização da base de dados quando necessário. Esse processo me ajudou a consolidar fundamentos de estruturação de dados, requisições web e fluxo entre camadas da aplicação.
 
-💻 Hard Skills Desenvolvidas
+💻 Hard Skills Desenvolvidas:
 
 JavaScript/HTML/CSS 
 
 MySQL/Python (Flask)
 
 
-🤝 Soft Skills Desenvolvidas
+🤝 Soft Skills Desenvolvidas:
 
 1. Adaptação e Aprendizado Rápido
 
@@ -89,14 +89,14 @@ Contribuições Pessoais
   No front-end, fui responsável pela criação da tela de cadastro, construindo o layout, organizando os campos e conectando cada etapa às rotas do back-end. Trabalhei também na exibição dos dados no Dashboard, realizando ajustes nas métricas para que fossem apresentadas corretamente.
 Essa combinação de tarefas reforçou minha capacidade de trabalhar com fluxo de dados completo, do banco até a interface do usuário, e ampliou minha experiência com integração de sistemas web modernos.
 
-💻 Hard Skills Desenvolvidas
+💻 Hard Skills Desenvolvidas:
 
 JavaScript/TypeScript/MySQL
 
 HTML/CSS/React/Git
 
 
-🤝 Soft Skills Desenvolvidas
+🤝 Soft Skills Desenvolvidas:
 
 1. Adaptação a um time em andamento
 
@@ -134,16 +134,17 @@ Contribuições Pessoais
   Desenvolvi os filtros de busca por palavra-chave e por responsável, permitindo que o usuário localizasse tarefas de forma rápida e precisa. Essa funcionalidade exigiu validações cuidadosas, otimização das consultas e integração entre API e interface.
   Atuei também no desenvolvimento completo do Dashboard, criando os componentes front-end e implementando a lógica no back-end responsável por reunir os dados necessários para a exibição dos indicadores.
   Além disso, implementei exceptions personalizadas e participei da construção da API de listagem geral de tarefas, garantindo consistência, padronização e clareza no retorno das rotas. Minhas contribuições reforçaram minha experiência em desenvolvimento full-stack, padronização de código, organização de APIs e estruturação de funcionalidades de alto impacto dentro do sistema.
+  Esse semestre ajudou muito na minha percepção com relação ao desenvolvimento ágil, a reconhecer minhas fraquezas e como posso melhorar, sendo da forma que eu me porto individualmente e posso ser mais proativo mas também na forma que posso ser melhor em grupo sendo melhor comunicativo.
 
 
-💻 Hard Skills Desenvolvidas
+💻 Hard Skills Desenvolvidas:
 
 Java/Spring Boot/MongoDB 
 
 React/TypeScript
 
 
-🤝 Soft Skills Desenvolvidas
+🤝 Soft Skills Desenvolvidas:
 
 1. Adaptabilidade em um contexto de mudanças constantes
 
