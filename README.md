@@ -108,7 +108,7 @@ HTML/CSS/React/Git
 
 3. Flexibilidade frente a mudanças de escopo
 
-  O cliente realizou mudanças frequentes nos requisitos, principalmente relacionados às métricas do dashboard e ao fluxo da captação de usuários.
+  O cliente realizou mudanças frequentes nos requisitos, principalmente relacionados às métricas do dashboard e ao fluxo da captação de usuários. Atuei ajustando funcionalidades, reavaliando regras de negócio e reorganizando o que já estava pronto para que as demandas fossem atendidas dentro do prazo, mantendo a qualidade da entrega.
 
 <br> </details>
 <details>
